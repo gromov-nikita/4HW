@@ -18,7 +18,7 @@ public class Runner {
     }
     public static void main(String[] args) {
         //5
-        System.out.println(max(10,5));
+        System.out.println(max(10, 5));
         //4
         Calculator<Integer> obj = new Calculator<>();
         Integer[] arr = new Integer[5];
