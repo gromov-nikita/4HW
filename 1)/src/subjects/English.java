@@ -1,8 +1,8 @@
 package subjects;
 
 public class English extends Subject {
-    public English(String name, int time, String complexity) {
-        setName(name);
+    public English(int time, String complexity) {
+        setName("English");
         setTime(time);
         setComplexity(complexity);
     }

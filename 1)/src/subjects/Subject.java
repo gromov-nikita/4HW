@@ -24,6 +24,6 @@ public abstract class Subject {
     }
     @Override
     public String toString() {
-        return "Name: " + name + " Time " + time + " Complexity " + complexity;
+        return "Name: " + name + " Time: " + time + " Complexity: " + complexity;
     }
 }
